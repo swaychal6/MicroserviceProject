@@ -1,0 +1,7 @@
+D:\Microservices\microservices-parent\microservice\product-service\src\main\java\com\shubham\microservice\productservice\ProductServiceApplication.java
+D:\Microservices\microservices-parent\microservice\product-service\src\main\java\com\shubham\microservice\productservice\repository\ProductRepository.java
+D:\Microservices\microservices-parent\microservice\product-service\src\main\java\com\shubham\microservice\productservice\model\Product.java
+D:\Microservices\microservices-parent\microservice\product-service\src\main\java\com\shubham\microservice\productservice\controller\ProductController.java
+D:\Microservices\microservices-parent\microservice\product-service\src\main\java\com\shubham\microservice\productservice\dto\ProductResponse.java
+D:\Microservices\microservices-parent\microservice\product-service\src\main\java\com\shubham\microservice\productservice\dto\ProductRequest.java
+D:\Microservices\microservices-parent\microservice\product-service\src\main\java\com\shubham\microservice\productservice\service\ProductService.java

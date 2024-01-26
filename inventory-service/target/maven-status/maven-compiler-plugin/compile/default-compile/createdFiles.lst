@@ -1,0 +1,9 @@
+com\shubham\microservice\inventoryservice\controller\InventoryController.class
+com\shubham\microservice\inventoryservice\model\Inventory$InventoryBuilder.class
+com\shubham\microservice\inventoryservice\model\Inventory.class
+com\shubham\microservice\inventoryservice\repository\InventoryRepository.class
+com\shubham\microservice\inventoryservice\dto\InventoryResponse.class
+com\shubham\microservice\inventoryservice\ServletInitializer.class
+com\shubham\microservice\inventoryservice\service\InvetoryService.class
+com\shubham\microservice\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\shubham\microservice\inventoryservice\InventoryServiceApplication.class

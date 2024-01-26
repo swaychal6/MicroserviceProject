@@ -1,0 +1,11 @@
+com\shubham\microservice\orderservice\controller\OrderController.class
+com\shubham\microservice\orderservice\dto\OrderRequest.class
+com\shubham\microservice\orderservice\model\Order.class
+com\shubham\microservice\orderservice\orderrepository\OrderRepository.class
+com\shubham\microservice\orderservice\service\OrderService.class
+com\shubham\microservice\orderservice\dto\InventoryResponse.class
+com\shubham\microservice\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\shubham\microservice\orderservice\config\WebConfig.class
+com\shubham\microservice\orderservice\dto\OrderLineItemsDto.class
+com\shubham\microservice\orderservice\OrderServiceApplication.class
+com\shubham\microservice\orderservice\model\OrderLineItems.class
